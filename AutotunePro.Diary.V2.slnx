@@ -4,5 +4,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yml" />
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="api/Api.csproj" />
 </Solution>
